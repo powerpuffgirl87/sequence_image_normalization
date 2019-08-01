@@ -1,4 +1,4 @@
-# sequence_image_normalization
+# Sequence Image Normalization 
 # README #
 
 
